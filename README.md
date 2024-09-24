@@ -16,7 +16,5 @@ A estrutura do projeto inclui os seguintes arquivos:
 - **OCRB.csv**: O dataset utilizado para análise.
 - **README.md**: Este arquivo, com a explicação detalhada do projeto.
 
-![Estrutura de Pastas](file-O9puYlFmgjLjoG5Exs3j4261)
-
 ## 📚 **Referências:**
 Lelis, Afonso. *Cálculo de entropia utilizando dados bancários*. Colab, 2023. Disponível em: <https://colab.research.google.com/drive/1EuqFrQO1FJzeGqXDiKUcswh5LX3g10gH?usp=sharing>. Acesso em: 24 set. 2023. 
